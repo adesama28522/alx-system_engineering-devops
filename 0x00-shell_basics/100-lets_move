@@ -1,1 +1,2 @@
 #!/bin/bash
+cp -u [[:upper:]]* file destination
