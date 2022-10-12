@@ -1,3 +1,2 @@
 #!/bin/bash
-cat /etc/passwd
-cat /wetc/hosts
+cat /etc/passwd /etc/hosts
